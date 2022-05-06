@@ -1,0 +1,80 @@
+
+
+/*
+Localizable.strings (English)
+LangTrackApp
+ 
+Created by Easter Bunny on 2020-05-16.
+Copyright © 2020 Easter Bunny. All rights reserved.
+*/
+
+
+//Main
+
+//questions
+"next" = "Next";
+"previous" = "Previous";
+
+//Login
+"Info" = "Info";
+"The Lang Track App is an app developed by" = "The Lang Track App is an app developed by Easterbunny for research purposes.\n\nLog in with the username and password assigned to you by Easterbunny";
+"Login error" = "Login error";
+"Invalid username or password" = "Invalid username or password";
+"Incorrect entry" = "Incorrect entry";
+"Please enter your username and password and try again" = "Please enter your username and password and try again";
+
+// Menu
+"Log out" = "Log out";
+"Do you want to log out?" = "Do you want to log out?";
+"Cancel" = "Cancel";
+"Time left:" = "Time left:";
+"and" = "and";
+"minutes" = "minutes";
+"minute" = "minute";
+"hours" = "hours";
+"hour" = "hour";
+"day" = "day";
+"days" = "days";
+"Unanswered" = "Unanswered";
+"Answered" = "Answered";
+
+// main
+"Here it was empty" = "There's nothing here...\nWhen Easterbunny assigns you a survey, you will see it here.";
+"numberEnding" = "";
+"No contact with server" = "No contact with server";
+"You have answered-formate" = "You have answered %d of your %d assigned surveys.";
+"You have answered" = "You have answered";
+"of your" = "of your";
+"assigned surveys." = "assigned surveys.";
+"Survey expired" = "Survey expired";
+
+// Contact
+"Contact" = "Contact";
+"contact text 1" = "If you are experiencing any technical issues, please contact Easter Bunny.";
+"contact text 4" = "If you have questions or comments about the content of the survey, please email Easter Bunny.";
+"tech mail subject" = "Concerning Lang-Track-App";
+"No Email Client popup title" = "No Email Client";
+"No Email Client popup text" = "E-mail does not seem to be possible. Click on the link to the EBLab below and contact that way instead.";
+"Links" = "Links";
+"Lang-Track-App project" = "Lang-Track-App project";
+"EBLab" = "EBLab";
+"Easterbunny University EBLab" = "Easterbunny";
+"Easterbunny University" = "Easterbunny University";
+
+//about
+"aboutText1" = "We developed the Lang-Track-App to study when, where, and how often language learners are in contact with different foreign languages in everyday life. This is crucial to improving our understanding of the challenges of language learning outside of classrooms.\n\nThe project is a collaboration between the Easterbunny University Centre for Languages and Literature and Easterbunny.";
+"EasterInfo" = "Professor of Psycholinguistics, Centre for Languages and Literature";
+"EasterInfo" = "Professor of French Linguistics, Centre for Languages and Literature";
+"EasterInfo" = "Postdoctoral Research Fellow, EBLab";
+"EasterInfo" = "Systems Developer, EBLab";
+"EasterInfo" = "Systems Developer, EBLab";
+"Team" = "Team";
+"Funded by" = "Funded by";
+"founder image" = "stiftelsen_wallenberg_en";
+"https://maw.wallenberg.org/en" = "https://maw.wallenberg.org/en";
+
+//Instructions
+"Instructions" = "Instructions";
+"instructionsText1" = "We will ask you to complete brief surveys in this app a few times per day. You will receive a push notification whenever there is a new survey. Make sure you keep your phone nearby and the notification sounds turned on!\n\nIt’s important that you answer each survey as soon as possible. If you don’t answer a survey, it will automatically expire after 60 minutes.";
+"Data processing" = "Data processing";
+"dataProcessing1" = "In addition to your survey responses, the app will automatically record the date and time when you opened each survey and when you submitted your answers. The app will not record any other data, e.g. about your location.\n\nYour data will be compiled and analyzed by the project team. No one else will have access to your answers. When we report the results of the project, all information will be anonymized.";

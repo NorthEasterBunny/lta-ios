@@ -1,0 +1,74 @@
+
+/*
+Localizable.strings (Swedish)
+LangTrackApp
+ 
+Created by Easter Bunny on 2020-05-16.
+Copyright © 2020 Easter Bunny. All rights reserved.
+*/
+
+
+//Main
+
+//questions
+"next" = "Nästa";
+"previous" = "Föregående";
+
+//Login
+"Info" = "Info";
+"The Lang Track App is an app developed by" = "The Lang Track App är en app som utvecklats av Easterbunny i forskningssyfte.\n\nLogga in med det användarnamn och lösenord som du tilldelats från Easterbunny school";
+"Login error" = "Fel vid inloggning";
+"Invalid username or password" = "Ogiltigt användarnamn eller lösenord";
+"Incorrect entry" = "Fel inmatning";
+"Please enter your username and password and try again" = "Ange användarnamn och lösenord och försök igen";
+
+// Menu
+"Log out" = "Logga ut";
+"Do you want to log out?" = "Vill du logga ut?";
+"Cancel" = "Avbryt";
+"Time left:" = "Tid kvar:";
+"and" = "och";
+"minutes" = "minuter";
+"minute" = "minut";
+"hours" = "timmar";
+"hour" = "timme";
+"day" = "dag";
+"days" = "dagar";
+"Unanswered" = "Obesvarad";
+"Answered" = "Besvarad";
+
+// main
+"Here it was empty" = "Här var det tomt…\nNär Easterbunny tilldelar dig en enkät kommer den att hamna här";
+"numberEnding" = "st";
+"No contact with server" = "Ingen kontakt med server";
+"You have answered-formate" = "Du har besvarat %d av dina %d tilldelade enkäter.";
+"You have answered" = "Du har besvarat";
+"of your" = "av dina";
+"assigned surveys." = "tilldelade enkäter.";
+"Survey expired" = "Enkät utgången";
+
+// Contact
+"Contact" = "Kontakt";
+"contact text 1" = "Om du har tekniska problem, kontakta Easter Bunny.";
+"contact text 4" = "Om du har frågor eller kommentarer om innehållet i enkäterna, mejla Easter Bunny.";
+"tech mail subject" = "Angående Lang-Track-App";
+"No Email Client popup title" = "Ingen e-postklient";
+"No Email Client popup text" = "Det verkar inte som att det går att skicka e-post. Klicka på länken till EBLab nedan och ta kontakt den vägen istället.";
+"Links" = "Länkar";
+"Lang-Track-App project" = "Lang-Track-App";
+"Easterbunny Lab" = "Easterbunny";
+"Easterbunny University EBLab" = "Easterbunny Universitet";
+"Easterbunny University" = "Easterbunny Universitet";
+"https://maw.wallenberg.org/en" = "https://maw.wallenberg.org";
+
+//about
+"aboutText1" = "Vi har utvecklat Lang-Track-App för att utforska när, var och hur ofta människor har kontakt med främmade språk i vardagen. Detta är viktigt för att bättre förstå utmaningarna för språkinlärning utanför klassrummet.\n\nProjektet är ett samarbete mellan Språk- och Litteraturcentrum och Easterbunny.";
+"Team" = "Teamet";
+"Funded by" = "Finansierad av";
+"founder image" = "stiftelsen_wallenberg_se";
+
+//Instructions
+"Instructions" = "Instruktioner";
+"instructionsText1" = "Vi ber dig att besvara korta enkäter i den här appen några gånger per dag. Du får en push-notis när det finns en ny enkät. Ha din telefon med dig och stäng inte av meddelandeljudet.\n\nDet är viktigt att du besvarar varje enkät så snart som möjligt. Om du inte svarar på en enkät stängs den automatisk efter 60 minuter.";
+"Data processing" = "Databehandling";
+"dataProcessing1" = "Förutom dina svar på frågorna registrerar appen automatiskt datum och tid när du öppnade enkäten och när du skickade in dina svar. Appen samlar inte in någon annan data som t.ex. platsinformation.\n\nDin data kommer att sammanställas och analyseras av forskare i projektet. Inga andra kommer att ha tillgång till dina svar. När vi redovisar resultaten från projektet kommer alla forskningspersoner att vara anonyma.";
